@@ -1,37 +1,24 @@
 ## Welcome to Franklin's Tech Blog
+这是一个用于记录信息安全内容学习的博客
 
-You can use the [editor on GitHub](https://github.com/sonrinhou/sonrinhou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 序
+1.什么是信息安全
+2.信息安全入门的三原则
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基础知识
+1.使用互联网的服务
+2.有什么危险
+3.如何安全的使用互联网
+4.信息安全相关技术
 
-### Markdown
+## 普通用户的对策
+1.基本对策
+2.使用互联网服务时的威胁和对策
+3.发布信息时的注意点
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 企业·组织的对策
+1.针对组织干部的信息安全对策
+2.针对员工的信息安全对策
+3.针对信息安全管理员的安全对策
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sonrinhou/sonrinhou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##用语集
