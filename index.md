@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Franklin's Tech Blog
 
 You can use the [editor on GitHub](https://github.com/sonrinhou/sonrinhou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
